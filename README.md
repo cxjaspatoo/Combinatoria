@@ -1,2 +1,2 @@
 # Combinatoria
-sacar variacion, combinacion y permutacion con y sin repeticion.
+sacar variacion, combinacion y permutacion (hasta 4 grupos) con y sin repeticion.
